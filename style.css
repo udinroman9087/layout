@@ -1,0 +1,14 @@
+p{
+
+color: rgb(187, 0, 255);
+   
+}
+form[action="account"]{
+display: flex;
+flex-direction: column;
+width: 420px;
+height: 60px;
+}
+form[ action="cender" ]{
+display: flex;
+}
